@@ -27,11 +27,7 @@ public class User extends Player
 	@Override
 	public void takeATurn()
 	{
-		// TODO Auto-generated method stub
-		
+
 	}
 
-	
-	
-	
 }
